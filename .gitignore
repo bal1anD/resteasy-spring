@@ -1,7 +1,7 @@
 #################
 ## Eclipse
 #################
-
+resteasy-spring.iml
 *.pydevproject
 .project
 .metadata
@@ -15,7 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
-
+.idea
 # External tool builders
 .externalToolBuilders/
 
